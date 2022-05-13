@@ -1,5 +1,7 @@
 pyrogram
-TgCrypto
+tgCrypto
 python-dotenv
 hachoir
 ffmpeg-python
+heroku3
+requests
